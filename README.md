@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi, I'm Joycelin!
+
+- 🔭 I’m currently studying at **National Taiwan Ocean University**
+- 🤝 I’m available for any job opportunity
+- 🌱 I’m currently learning **Deep Learning** and **Advanced SQL**
+- 📫 How to reach me: [joycelinangelia@gmail.com](mailto:joycelinangelia@gmail.com)
 
 <!--
 **joycelinangelia/joycelinangelia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
